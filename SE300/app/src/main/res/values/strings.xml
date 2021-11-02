@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SE300</string>
+    <string name="Home">Home</string>
+    <string name="Parking">Parking</string>
+    <string name="Rental">Rental Cars</string>
+    <string name="Ride_shares">Ride Shares</string>
+    <string name="Shuttle">Shuttle</string>
+</resources>
