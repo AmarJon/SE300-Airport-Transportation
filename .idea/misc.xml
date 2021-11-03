@@ -3,13 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/nicol/AndroidStudioProjects/SE300-Airport-Transportation-ChanChito/app/src/main/res/layout/activity_main.xml" value="0.12411347517730496" />
-        <entry key="..\:/Users/nicol/AndroidStudioProjects/SE300-Airport-Transportation-ChanChito/app/src/main/res/layout/activity_ride_share.xml" value="0.10740740740740741" />
-        <entry key="..\:/Users/nicol/AndroidStudioProjects/TestApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Amarj/AndroidStudioProjects/SE300/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Amarj/AndroidStudioProjects/SE300/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Amarj/AndroidStudioProjects/SE300/app/src/main/res/layout/fragment_parking.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Amarj/AndroidStudioProjects/SE300/app/src/main/res/layout/fragment_rental_cars.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Amarj/AndroidStudioProjects/SE300/app/src/main/res/layout/fragment_ride_shares.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Amarj/AndroidStudioProjects/SE300/app/src/main/res/layout/fragment_shuttle.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nicol/AndroidStudioProjects/SE300-Airport-Transportation-Andrew-s-Branch/SE300/app/src/main/res/layout/activity_main.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/nicol/AndroidStudioProjects/SE300-Airport-Transportation-Andrew-s-Branch/SE300/app/src/main/res/layout/fragment_rental_cars.xml" value="0.10410334346504559" />
+        <entry key="..\:/Users/nicol/AndroidStudioProjects/SE300-Airport-Transportation-Andrew-s-Branch/SE300/app/src/main/res/layout/fragment_ride_shares.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
