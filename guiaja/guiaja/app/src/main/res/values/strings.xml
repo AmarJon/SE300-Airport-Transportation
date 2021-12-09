@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SE300</string>
+    <string name="Home">Home</string>
+    <string name="Parking">Parking</string>
+    <string name="Rental">Rental Cars</string>
+    <string name="Ride_shares">Ride Shares</string>
+    <string name="Shuttle">Shuttle</string>
+    <string name="Parking_Info">Parking Info:</string>
+    <string name="Economy_Price">Economy Lot\nPrice $10</string>
+    <string name="Cell_Lot_Price">Cell Lot\nPrice: Free</string>
+    <string name="Garage_Price">Parking Garage\nPrice: $19</string>
+    <string name="Terminal_Price">Terminal Parking\nPrice: $19</string>
+
+    <string name="MAPS_API_KEY">AIzaSyCY0UBgWA0dDmUjm4_w6SydGLo8RF4rj3Y</string>
+</resources>

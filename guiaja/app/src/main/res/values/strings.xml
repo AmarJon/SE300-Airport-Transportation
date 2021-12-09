@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SE300</string>
+    <string name="Home">Home</string>
+    <string name="Parking">Parking</string>
+    <string name="Rental">Rental Cars</string>
+    <string name="Ride_shares">Ride Shares</string>
+    <string name="Shuttle">Shuttle</string>
+    <string name="Parking_Info">Parking Information</string>
+
+    <string name="North_Economy">
+        North Economy Lot\nPrice: $5 for 11 mins - 3 hours\nPrice: $10 for 24-hour period (Maximum stay 90 days)\n
+        \nFree shuttle to terminal A or B\nPatrolled by Orlando Police Department - Airport Divison\n\n
+    </string>
+
+    <string name="South_Economy">South Economy Lot\nPrice: $5 for 11 mins - 3 hours\nPrice: $10 for 24-hour period (Maximum stay 90 days)\n
+        \nFree shuttle to terminal A or B\nPatrolled by Orlando Police Department - Airport Divison\n\n
+    </string>
+
+    <string name="North_Cell_Lot">North Cell Lot\nFree parking\n\nDrivers waiting to pick up passengers\n
+        Can not be parked overnight\n\n
+    </string>
+
+    <string name="South_Cell_Lot">South Cell Lot\nFree parking\n\nDrivers waiting to pick up passengers\n
+        Can not be parked overnight\n\n
+    </string>
+
+    <string name="Terminal_A">Terminal A\nPrice: $2 for 21-30 minutes\nPrice: $1 for each additional 15 minutes (Maximum $19)
+        \nPrice: $19 per 24-hour period (Maximum stay 45 days)\n\nWalking distance of A or B side terminal\nVehicles higher than 7 feet cannot be accommodated\n\n
+        Rental cars are on level R1 and R2\nElectric vehicles park on level 2, row A\n\n
+    </string>
+
+    <string name="Terminal_B">Terminal B\nPrice: $2 for 21-30 minutes\nPrice: $1 for each additional 15 minutes (Maximum $19)
+        \nPrice: $19 per 24-hour period (Maximum stay 45 days)\n\nWalking distance of A or B side terminal\nVehicles higher than 7 feet cannot be accommodated\n\n
+        Rental cars are on level R1 and R2\nElectric vehicles park on level 2, row P\n\n
+    </string>
+
+    <string name="Terminal_C">Terminal C\nPrice: $2 for 21-30 minutes\nPrice: $1 for each additional 15 minutes (Maximum $17)\n
+        Price: $17 per 24-hour period (Maximum stay 45 days)\n\nAPM ride is a 3 and a half minute ride to terminals A and B\n
+        Vehicles higher than 8 feet cannot be accommodated\n\n
+    </string>
+
+    <string name="Terminal_Top">Terminal Parking\nPrice:Price: $2 for 21-30 minutes\nPrice: $1 for each additional 15 minutes (Maximum $19)
+        \nPrice: $19 per 24-hour period (Maximum stay 45 days)\n\nnWalking distance of A or B side terminal\nVehicles higher than 7 feet cannot be accommodated\n\n
+
+    </string>
+
+    <string name="MAPS_API_KEY">AIzaSyCY0UBgWA0dDmUjm4_w6SydGLo8RF4rj3Y</string>
+</resources>
